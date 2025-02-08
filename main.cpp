@@ -1,4 +1,6 @@
 //SOME FEATURE
+//This is example program
+// Authors: Simakov, KE-317, 2025
 #include <iostream>
 
 using namespace std;
