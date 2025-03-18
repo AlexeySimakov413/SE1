@@ -1,4 +1,5 @@
-    #include <iostream>
+//autor Simakov Alexey KE-317   
+#include <iostream>
 
 using namespace std;
 
