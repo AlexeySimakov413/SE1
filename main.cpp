@@ -3,7 +3,9 @@
 using namespace std;
 
 int main()
-{
-    cout << "Hello world!" << endl;
-    return 0;
-}
+ {
+     int a,b;
+     cout<< "enter numbers a,b"; cin>>a>>b;
+     cout<<"sum of a+b="<<a+b<<endl;
+     return 0;
+ }
